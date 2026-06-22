@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.key
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & models (large / regenerable)
+data/raw/
+data/processed/
+models/
+*.pth
+*.pt
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
