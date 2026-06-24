@@ -9,7 +9,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Data & models (large / regenerable)
-data/
+/data/
 data/raw/
 data/processed/
 models/
